@@ -26,7 +26,7 @@ SECRET_KEY = 'usy@g+71b_$!9r&t=+#kc-8l4wbft9xz*al61^12@(86-x*a1&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jess-bennett-django.herokuapp.com']
 
 
 # Application definition
